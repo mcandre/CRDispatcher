@@ -1,6 +1,5 @@
 # CRDispatcher Vim Plugin
-This is a utility plugin which is used in my other Vim plugins.  It let
-regieter callback functions which transform the command line after hitting
+This is a utility plugin which is used in my other Vim plugins.  It registers callback functions which transform the command line after hitting
 enter: for example EnchantedVim is using it to add `\v` to patterns.
 
 It also has a nice hack to make `c_CTRL-F` work nicely: it will transform
